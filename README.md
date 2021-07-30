@@ -1,2 +1,2 @@
-# Machine-Laerning-edu
-Machine Laerning edu
+# Machine-Learning-education
+practic from w3school.com
